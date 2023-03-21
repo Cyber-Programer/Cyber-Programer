@@ -1,7 +1,7 @@
 <a href="https://rishavchanda.io" align="center">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="1000" height="200">
 </a>
-<h1 align="center">Hi 👋, I'm Halal-AsHacker</h1>
+<h1 align="center">Hi 👋, I'm MD.SiFaT isLaM</h1>
 <h3 align="center">DEFENDING YOUR DIGTAL DATA WITH KNOWLEDEG AND SKILL</h3>
 <div style="text-align:center;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="580" height="360" alt="Halal-AsHacker GIF" align="center">
