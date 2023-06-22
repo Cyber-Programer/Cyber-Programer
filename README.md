@@ -1,5 +1,4 @@
-<a href="https://rishavchanda.io" align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="1000" height="200">
+
 </a>
 <h1 align="center">Hi 👋, I'm MD.SiFaT isLaM</h1>
 <h3 align="center">DEFENDING YOUR DIGTAL DATA WITH KNOWLEDEG AND SKILL</h3>
