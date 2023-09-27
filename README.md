@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Cyber-Programer/Dir_blast-/assets/125746506/f9d9518b-511f-4366-b028-9822d600642e">
+  <img src="/img/images.jpeg">
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=halal-ashacker&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-programer" width="200" /> </p>
 
@@ -39,7 +39,12 @@ I am a python Developer from Earth. <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" hight="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width=40 hight=40
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width=40 hight=40>
+  <img src="/img/armitage.jpeg" title='armitage'width=40 hight=40>
+  <img src="/img/burp.jpeg" title='burp' width=40 hight=40>
+  <img src="/img/wireshark.png" title='wireshark' width=40 hight=40>
+  <img src="/img/johnny.png" title='johnny' width=40 hight=40>
+  
 </div>
 
 
