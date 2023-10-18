@@ -1,7 +1,6 @@
-
-<div align="center">
-  <img src="/img/images.jpeg">
-</div>
+<p align="center">
+  <img src="removebg.banner.png">
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=halal-ashacker&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-programer" width="200" /> </p>
 
 <h1 align="center">
