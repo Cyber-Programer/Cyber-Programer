@@ -10,6 +10,11 @@
 <h3 align="center">DEFENDING YOUR DIGTAL DATA WITH KNOWLEDEG AND SKILL</h3>
 
 # About me:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwajBlZG9venphZ2hoMThkcGowbng4eWwwdTRxOWI5M2U5dXl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQgKLMJvWEZKI2Hfvo/giphy.gif">
+</p>
+
 I am a python Developer from Earth. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
