@@ -7,7 +7,7 @@
   Hi 👋, I'm MD.SiFaT isLaM
 </h1>
 
-<h3 align="center">DEFENDING YOUR DIGTAL DATA WITH KNOWLEDEG AND SKILL</h3>
+<h3 align="center">Coding Today for a Better Tomorrow</h3>
 
 # About me:
 
