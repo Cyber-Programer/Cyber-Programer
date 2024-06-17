@@ -15,16 +15,25 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwajBlZG9venphZ2hoMThkcGowbng4eWwwdTRxOWI5M2U5dXl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQgKLMJvWEZKI2Hfvo/giphy.gif">
 </p>
 
-I am a python Developer from Earth. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+I’m <b>Md Sifat IslamM</b><br>
+I know various programming languages like :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+- Python
+- Java
+- Dart
+- HTML
+- CSS
+- JavaScript
+- Bash/Bat script
 
 
-- :telescope: I'm working as a Python developer and web developer.
+:telescope: I'm working as a Python developer and web developer.
 
-- :seedling: I'm also learning Cybersecurity.
+:seedling: I'm also learning Cybersecurity.
 
-- :zap: In my free time, I program.
+:zap: In my free time, I program.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-cyber_programer-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/root_lovs)
+:mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-cyber_programer-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/root_lovs)
 
 ---
 
@@ -48,6 +57,19 @@ I am a python Developer from Earth. <img src="https://media.giphy.com/media/WUlp
   <img src="/img/burp.jpeg" title='burp' width=40 hight=40>
   <img src="/img/wireshark.png" title='wireshark' width=40 hight=40>
   <img src="/img/johnny.png" title='johnny' width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" width=40 hight=40>
+  <img src="https://img.icons8.com/color/70/dart" title="Dart" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" title="Apachi" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="Flask" width=40 hight=40>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" width=40 hight=40>
+  <img src="https://img.icons8.com/?size=100&id=LSOtRiURcRCx&format=png&color=000000" title="Tor" width=40 hight=40>
+  <img src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" title="Read Hat" width=40 hight=40>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" title="Netlify" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="Pycharm" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Vs Code" width=40 highit=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" title="Windows 11" width=40 hight=40>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" title="Debian" width=40 hight=40>
   
 </div>
 
