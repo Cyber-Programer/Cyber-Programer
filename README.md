@@ -21,7 +21,7 @@ I know various programming languages like :  <img src="https://media.giphy.com/m
 - Python
 - Java
 - Dart
-- HTML
+- C
 - JavaScript
 - Bash/Bat script
 
