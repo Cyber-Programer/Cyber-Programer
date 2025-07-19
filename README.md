@@ -11,10 +11,9 @@
 <h3 align="center">Coding Today for a Better Tomorrow</h3>
 
 # About me:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwajBlZG9venphZ2hoMThkcGowbng4eWwwdTRxOWI5M2U5dXl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQgKLMJvWEZKI2Hfvo/giphy.gif">
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwajBlZG9venphZ2hoMThkcGowbng4eWwwdTRxOWI5M2U5dXl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQgKLMJvWEZKI2Hfvo/giphy.gif"> -->
+<!-- </p> -->
 
 I’m <b>Md Sifat IslamM</b><br>
 I know various programming languages like :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
